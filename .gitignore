@@ -191,6 +191,10 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# macOS / local history
+.DS_Store
+.Rhistory
+
 # PyPI configuration file
 .pypirc
 
